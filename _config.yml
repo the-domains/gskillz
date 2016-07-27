@@ -1,0 +1,14 @@
+layout_spectrum: 0.13968978356570005
+typography_spectrum: 0.5181506988592446
+color:
+  brandStrength: 0.1513147943187505
+  lightness: 0.19247552566230297
+  saturation: 0.354443431366235
+  rhythmicContrast: 0.446634876774624
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: GSkillz
